@@ -12,6 +12,7 @@ I primarily program in JavaScript, HTML5, and CSS
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</br>
 
 ## GitHub Stats
 ![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=karltilsner&show_icons=true&theme=gruvbox)
