@@ -2,7 +2,7 @@
 
 ---
 ## About Me
-My name is Karl Tilsner, I currently study Information Technology at Flinders University.
+My name is Karl Tilsner, I currently study Information Technology at Flinders University. </br>
 I primarily program in JavaScript, HTML5, and CSS
 
 #
