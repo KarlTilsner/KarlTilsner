@@ -21,4 +21,4 @@ My main focus is building web applications, and working with and displaying data
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=KarlTilsner&theme=gruvbox&border_radius=4.5) -->
 
 ## Socials
-[website]: https://www.linkedin.com/in/karl-tilsner-3b4207269/
+LinkedIn: https://www.linkedin.com/in/karl-tilsner-3b4207269/
