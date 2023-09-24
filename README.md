@@ -19,3 +19,6 @@ My main focus is building web applications, and working with and displaying data
 ![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=karltilsner&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=KarlTilsner&theme=gruvbox&border_radius=4.5) -->
+
+## Socials
+[website]: https://www.linkedin.com/in/karl-tilsner-3b4207269/
