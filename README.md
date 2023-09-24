@@ -5,7 +5,7 @@
 ## About Me
 My name is Karl, I currently study Information Technology at Flinders University. </br>
 I primarily program in JavaScript, HTML5, and CSS. </br>
-My main focus is building web applications, and working with and displaying data.
+My main focus is building web applications, and working with and displaying data.</br>
 </br>
 Currently Learning: Javascript, and React
 
