@@ -1,7 +1,5 @@
 # Karl Tilsner / Azend_1
 
----
-
 ## About Me
 Hey my name is Karl, I studied Bachelor of Information Technology degree at Flinders University. </br>
 I primarily program in JavaScript, HTML5, and CSS. </br>
