@@ -2,7 +2,7 @@
 
 ## About Me
 Hey my name is Karl, I studied Bachelor of Information Technology degree at Flinders University. </br>
-I primarily program in JavaScript, HTML5, and CSS. </br>
+I primarily program in Python, JavaScript, HTML5, and CSS. </br>
 My main passion is building web applications, working with and displaying data/statistics.</br>
 </br>
 Currently Learning: JavaScript, TypeScript, React, Python, and Firebase
