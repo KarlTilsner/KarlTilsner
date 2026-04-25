@@ -31,10 +31,10 @@ JavaScript, Python, REST APIs, Data Processing, GitHub Actions
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 JavaScript, Python, React, Firebase, Firestore, REST APIs, Git
 
 ---
 
-## 🔗 Links
+## Links
 LinkedIn: https://www.linkedin.com/in/karl-tilsner-3b4207269
