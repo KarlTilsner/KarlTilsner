@@ -3,7 +3,7 @@ Software Developer | JavaScript & Python | Data-Driven Applications
 
 ---
 
-## Featured Project: Amiibots Statistics Tool
+## Featured Project: Amiibots Statistics Tool V2
 
 A data-driven web application processing **1M+ match records** to generate real-time analytics, rankings, and matchup insights for a competitive gaming community.
 
