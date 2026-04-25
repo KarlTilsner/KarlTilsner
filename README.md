@@ -1,26 +1,40 @@
-# Karl Tilsner / Azend_1
+# Karl Tilsner
+Software Developer | JavaScript & Python | Data-Driven Applications
 
-## About Me
-Hey my name is Karl, I studied Bachelor of Information Technology degree at Flinders University. </br>
-I primarily program in Python, JavaScript, HTML5, and CSS. </br>
-My main passion is building web applications, working with and displaying data/statistics.</br>
-</br>
-Currently Learning: JavaScript, TypeScript, React, Python, and Firebase
+---
 
-## Languages and Tools
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-</br>
+## Featured Project: Amiibots Statistics Tool
 
-## Socials
-LinkedIn: https://www.linkedin.com/in/karl-tilsner-3b4207269/
+A data-driven web application processing **1M+ match records** to generate real-time analytics, rankings, and matchup insights for a competitive gaming community.
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=KarlTilsner&theme=gruvbox&border_radius=4.5) -->
+### Key Highlights
+- Built a **data ingestion and preprocessing pipeline** to transform large-scale API data into optimized frontend datasets
+- Eliminated reliance on a slow third-party API by implementing **scheduled caching using GitHub Actions**
+- Designed **dynamic filtering and query systems** for complex statistics (trainers, matchups, rankings)
+- Developed **interactive visualisations** including rating histories, leaderboards, and matchup win rates
+- Iterated across **20+ releases**, improving performance, accuracy, and usability
 
+### Tech
+JavaScript, Python, REST APIs, Data Processing, GitHub Actions
 
+🔗 Live Site: [Link](https://karltilsner.github.io/Amiibots-Statistics-Tool-V2/rating_history.html)
+
+🔗 Repository: [Link](https://github.com/KarlTilsner/Amiibots-Statistics-Tool-V2)
+
+---
+
+## Other Projects
+
+- **PLDA Website** - Web app implementing a firebase backend and database to store real matches and a digital scoresheet where authorised users submit results
+- **Group Debt Solution** - Web app implementing a minimum cash flow algorithm to optimise group expense settlements
+- **Amiibo Event Scorer** - Python application integrating with the Challonge API to score competitive tournaments
+
+---
+
+## 🛠 Tech Stack
+JavaScript, Python, React, Firebase, Firestore, REST APIs, Git
+
+---
+
+## 🔗 Links
+LinkedIn: https://www.linkedin.com/in/karl-tilsner-3b4207269
